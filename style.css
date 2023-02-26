@@ -17,6 +17,7 @@ body {
     font-size: 15px;
     background-color: var(--very-dark-blue);
     color: var(--light-gray);
+    margin-top: 12%;
 }
 
 /* star image */
